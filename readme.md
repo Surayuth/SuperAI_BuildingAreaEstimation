@@ -1,1 +1,1 @@
-1st place solution in Super AI Building Area Estimation
+1st place solution in Super AI Building Area Estimation Competition
